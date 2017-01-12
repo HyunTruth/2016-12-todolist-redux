@@ -1,0 +1,39 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: inconsolata;
+  background-color: #95cfd0;
+}
+
+
+.addProcess {
+  margin-top: 50px;
+  font-size: 150%;
+  float: middle;
+  margin-left: 45%;
+}
+button {
+  margin-left: 5px;
+}
+
+.Process {
+  float: left;
+  text-align: center;
+  margin-top: 50px;
+  margin-left: 9%;
+  background-color: #d0ecf4;
+  border-radius: 10px;
+  width: 400px;
+  height: 750px;
+  font-size: 120%;
+}
+
+.deleteProcess {
+  font-size: 100%;
+  float: middle;
+  margin-bottom: 30px;
+}
+
+.addCard {
+  margin-top: 30px;
+}
